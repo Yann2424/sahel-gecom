@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { FaTwitter, FaGoogle, FaApple } from 'react-icons/fa';
 import './App.css'
 
 function App() {
